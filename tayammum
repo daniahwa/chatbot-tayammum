@@ -1,0 +1,41 @@
+<div class="messages" id="messages" aria-live="polite">
+  <div class="message bot">
+    🤖 Waalaikumussalam! Selamat datang.
+    Apa yang kamu ingin belajar tentang tayammum hari ini?
+  </div>
+</div>
+
+<div class="suggestions">
+  <button onclick="quickAsk('Apakah maksud tayammum?')">
+    Maksud tayammum
+  </button>
+  <button onclick="quickAsk('Bilakah tayammum diharuskan?')">
+    Sebab tayammum
+  </button>
+  <button onclick="quickAsk('Apakah rukun tayammum?')">
+    Rukun tayammum
+  </button>
+  <button onclick="quickAsk('Apakah sunat tayammum?')">
+    Sunat tayammum
+  </button>
+  <button onclick="quickAsk('Beri saya kuiz tayammum')">
+    Kuiz
+  </button>
+</div>
+
+<form class="input-area" id="chatForm">
+  <input
+    type="text"
+    id="userInput"
+    placeholder="Taip soalan kamu..."
+    autocomplete="off"
+    aria-label="Taip soalan"
+    required
+  >
+  <button type="submit">Hantar</button>
+</form>
+
+<div class="footer">
+  Dibangunkan untuk pembelajaran Pendidikan Islam Tahun 5.
+  <br>Semak persoalan khusus dengan guru Pendidikan Islam.
+</div>
