@@ -1,0 +1,60 @@
+
+<div class="nota">
+  <h2>1. Pengertian Tayammum</h2>
+  <ul>
+    <li>
+      Menyapukan debu tanah yang suci ke muka dan
+      kedua-dua belah tangan hingga ke siku dengan
+      niat dan syarat-syarat tertentu.
+    </li>
+  </ul>
+
+  <h2>2. Rukun Tayammum (4 perkara)</h2>
+  <ol>
+    <li>Niat tayammum.</li>
+    <li>Menyapu debu tanah ke muka.</li>
+    <li>
+      Menyapu debu tanah ke kedua-dua belah tangan
+      hingga ke siku.
+    </li>
+    <li>Tertib (mengikut susunan).</li>
+  </ol>
+
+  <h2>3. Sebab-sebab Diharuskan Tayammum (5 perkara)</h2>
+  <ul>
+    <li>Tiada air untuk bersuci selepas berusaha mencari.</li>
+    <li>
+      Air yang ada hanya cukup untuk keperluan diri
+      dan ternakan sahaja.
+    </li>
+    <li>
+      Jarak sumber air terlalu jauh atau membahayakan.
+    </li>
+    <li>
+      Terhalang daripada menggunakan air kerana sakit
+      atau luka yang boleh memudaratkan.
+    </li>
+    <li>
+      Cuaca yang terlalu sejuk sehingga boleh
+      memudaratkan jika menggunakan air.
+    </li>
+  </ul>
+</div>
+
+<style>
+.nota {
+  font-family: Arial, sans-serif;
+  color: #222;
+  line-height: 1.7;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+}
+.nota h2 {
+  font-size: 20px;
+  margin-top: 24px;
+}
+.nota li {
+  margin-bottom: 8px;
+}
+</style>
